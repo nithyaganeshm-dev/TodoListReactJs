@@ -1,6 +1,5 @@
-#Todo List Project
-#ReactJs
-# After clone this repository steps to follow
-  - npm install for  to implement node files
-  - npm run dev for local server url
-  - npm run build for production
+# ReactJs TodoList Project
+# After clonning steps to follow
+  - npm install command for to implement node files
+  - npm run dev command for localhost url
+  - npm run build command for project production
